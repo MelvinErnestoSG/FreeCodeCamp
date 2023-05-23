@@ -1,2 +1,2 @@
 # FreeCodeCamp
-    1 Responsive Web Design 
+    1) Responsive Web Design 
