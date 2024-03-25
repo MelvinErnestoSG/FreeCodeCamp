@@ -7,3 +7,5 @@
         CSS le dice al navegador cómo mostrar su página web. Puede usar CSS para establecer el color, la fuente, el tamaño y otros aspectos de los elementos HTML. 
         En este curso, aprenderás CSS diseñando una página de menú para la página web de una cafetería.
     
+    3) Seleccionar los colores correctos para tu página web puede mejorar enormemente el atractivo estético para tus lectores.
+        En este curso, construirás un conjunto de marcadores de color. Aprenderás diferentes maneras de establecer valores de color y cómo combinar colores entre sí.
